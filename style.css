@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color:rgb(255, 234, 117);
+    height: 250px;
+    text-align: center;
+}
+
+
+
+body{
+    background-color: antiquewhite;
+}
+
+main section{
+    background-color: rgb(228, 228, 228);
+    margin: 30px;
+    padding: 30px 10px 30px 30px;
+    border-radius: 5px;
+}
